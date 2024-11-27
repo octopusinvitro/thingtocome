@@ -16,12 +16,12 @@
     "gulp-autoprefixer": "^9.0.0",
     "gulp-concat": "^2.6.0",
     "gulp-imagemin": "^9.0.0",
-    "gulp-sass": "^2.2.0",
+    "gulp-sass": "^6.0.0",
     "gulp-sourcemaps": "^3.0.0",
     "gulp-uglify": "^3.0.2"
   },
   "dependencies": {
     "gulp": "^5.0.0",
-    "gulp-sass": "^2.2.0"
+    "gulp-sass": "^6.0.0"
   }
 }
